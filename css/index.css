@@ -1,0 +1,55 @@
+*{
+
+    margin:0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+/* body{
+    background-image: url("../images/back_dlg.JPG");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+} */
+
+.container-logo{
+
+    margin: auto;
+    text-align: center;
+}
+
+.container-logo img{
+
+    margin: auto;
+    opacity: 3;
+}
+
+
+
+.main-container{
+
+   max-width: 800px;
+   margin: 60px auto;
+   text-align: center;
+   
+}
+
+
+
+.form input{
+
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+.form input[type="submit"]{
+
+    cursor: pointer;
+    background-color: #009879;
+    color: #ffffff;
+    font-size: 20px;
+    
+}
